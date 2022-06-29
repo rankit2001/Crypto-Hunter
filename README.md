@@ -4,7 +4,7 @@ You will be able to search currencies and have it display on the browser. Also, 
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+#### Here is a working live demo :  https://crypto-hunter-react-1fa4b.web.app/
 
 ## Built with 
 
