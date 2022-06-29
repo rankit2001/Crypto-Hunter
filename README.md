@@ -11,6 +11,7 @@ You will be able to search currencies and have it display on the browser. Also, 
 - [React JS](https://reactjs.org/)
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+- [FireBase](https://firebase.google.com/?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLMIWCijyeRH86j10Jc9dVYw9pVFcqPii0KZ2GhvgJYzsnx_hFlt_2IaAsXDEALw_wcB&gclsrc=aw.ds)
 
 ## Made with ♥ by Rankit
 
